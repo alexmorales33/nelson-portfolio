@@ -1,15 +1,17 @@
 ---
 date: '4'
 title: 'Green Feet Solutions'
-cover: 'GreenFeet.jpg'
+cover: 'greenfeet-mockup.jpg'
 external: 'https://greenfeetsolution.com'
 github: 'https://github.com/alexmorales33/green_feet'
 tech:
-  - Flask Python
-  - Next. Js
+  - Flask | Python
   - MySQL
   - Mongo DB
   - LangChain
+  - Next.Js
+  - React.Js
+  - React Native Expo
 
 showInProjects: true
 ---

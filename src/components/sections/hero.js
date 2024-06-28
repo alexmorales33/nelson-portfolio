@@ -82,7 +82,7 @@ const Hero = ({ data }) => {
   );
   const five = () => (
     <div style={{ transitionDelay: '500ms' }}>
-      <StyledEmailLink href="/resumen.pdf" target="_blank" rel="nofollow noopener noreferrer">Get Resume</StyledEmailLink>
+      <StyledEmailLink href="/resumen_nelson.pdf" target="_blank" rel="nofollow noopener noreferrer">Get Resume</StyledEmailLink>
     </div>
   );
 

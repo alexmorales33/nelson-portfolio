@@ -1,9 +1,8 @@
 ---
 date: '3'
 title: 'Synagro'
-cover: 'Synagro.jpg'
+cover: 'synagro-mockup.jpg'
 external: 'https://synagroweb.com'
-github: ''
 tech:
   - PowerBuilder
   - .Net Core

@@ -188,7 +188,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Projects</Heading>
+      <Heading ref={revealTitle}>Featured Projects</Heading>
 
       <div>
         {featuredProjects &&
@@ -228,6 +228,15 @@ const Featured = ({ data }) => {
                         rel="nofollow noopener noreferrer"
                         aria-label="GitHub Link">
                         <FormattedIcon name="GitHub" />
+                      </a>
+                    )}
+                    {external && (
+                      <a
+                        href={external}
+                        target="_blank"
+                        rel="nofollow noopener noreferrer"
+                        aria-label="External Link">
+                        <FormattedIcon name="External" />
                       </a>
                     )}
                   </StyledLinkWrapper>

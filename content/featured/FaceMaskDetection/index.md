@@ -1,11 +1,12 @@
 ---
 date: '2'
 title: 'Decrypto.la'
-cover: 'DeCrypto.jpg'
-external: ''
-github: 'https://github.com/alexmorales33/Alkemy_challenge_fullstack'
+cover: 'decrypto-mockup.jpg'
+external: 'https://play.google.com/store/apps/details?id=com.decryptomobile'
 tech:
-  - Rect Js
-  - Express
+  - Typescript
+  - React Native Cli
 showInProjects: true
 ---
+
+Decrypto offers a mobile application that facilitates investments in cryptocurrencies, allowing users to generate passive income and access to financing for purchases in interest-free installments through its Decrypto card, which returns a percentage in cryptocurrencies for each purchase made.
