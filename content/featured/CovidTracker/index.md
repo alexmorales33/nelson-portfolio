@@ -1,16 +1,16 @@
 ---
 date: '3'
-title: 'Emojipedia'
-cover: 'emojipediaa.jpg'
-external: 'https://emojipedia-nine.vercel.app/'
-github: 'https://github.com/alexmorales33/emojipedia/CryptoMarket'
+title: 'Synagro'
+cover: 'Synagro.jpg'
+external: 'https://synagroweb.com'
+github: ''
 tech:
-  - Typescript
-  - ReactJs
-  - NextJs
-  - ChakraUi
+  - PowerBuilder
+  - .Net Core
+  - Vue Js
+  - MySQL
 
 showInProjects: true
 ---
 
-Emojipedia clone. Single Page Application (SAP). See all the universally available emojis and their information (Name, Code, Category, etc.)
+SYNAgro, as an agricultural-livestock software company, offers an efficient tool that seamlessly integrates productive and accounting modules into one software. With a single input, you get both productive and accounting results simultaneously. Stop using multiple software for the same task—SYNAgro does it all for you.

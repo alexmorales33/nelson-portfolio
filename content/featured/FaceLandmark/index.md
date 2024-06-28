@@ -1,16 +1,17 @@
 ---
 date: '4'
-title: 'Movies App Eras'
-cover: 'eras.jpg'
-external: 'https://eras-app.vercel.app/'
-github: 'https://github.com/alexmorales33/ErasApp'
+title: 'Green Feet Solutions'
+cover: 'GreenFeet.jpg'
+external: 'https://greenfeetsolution.com'
+github: 'https://github.com/alexmorales33/green_feet'
 tech:
-  - ReactJs
-  - Redux
-  - Sass
+  - Flask Python
+  - Next. Js
+  - MySQL
+  - Mongo DB
+  - LangChain
 
 showInProjects: true
 ---
 
-
-Application of Movies and TV Series. Interacting and rendering the information inside theMovieDbApi, allowing us to see details about it. (Rating, Casting, Synopsis, etc).
+Our goal is to combine technological innovation with carbon footprint management and sustainable practices to forge a responsible future. We provide companies with advanced tools to measure and manage their carbon footprint, ensuring their actions align with sustainability goals.
